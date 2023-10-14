@@ -23,9 +23,3 @@ Certifique-se de ter as seguintes dependências instaladas em seu ambiente de de
 
 - Kotlin
 - Banco de dados (H2)
-
-## Configuração
-
-1. Clone este repositório em sua máquina local:
-
-
